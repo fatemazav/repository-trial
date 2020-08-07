@@ -5,7 +5,6 @@ This listed data is ingested from Carbon Black in to Workspace ONE Intelligence 
 
 | Resource | Metric Key    | Metric Values           |
 |----------|---------------|-------------------------|
-
 |AWS Account|	Cost | MTD Cost	|Double|
 |AWS Region|	Cost | MTD Cost	|Double|
 ||Summary - Number of EC2 Instances	|Double|
