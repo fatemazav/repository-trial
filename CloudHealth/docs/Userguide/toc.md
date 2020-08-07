@@ -1,6 +1,4 @@
 
-This is the table of contents from which the Workspace ONE Intelligence Products (Intelligence Enterprise and Consumer Apps) Documentation site on docs.vmware.com is built.
-
 - [Introduction to VMware vRealize Operations Management Pack for CloudHealth](01_intro_CH.md)
 - [Install VMware vRealize Operations Management Pack for CloudHealth](02_install_CH.md)
 - [Configure VMware vRealize Operations Management Pack for CloudHealth](03_configure_CH.md)
